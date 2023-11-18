@@ -1,0 +1,41 @@
+[33mcommit 22b247050fbad18effe7be9416957a6502c2f2e6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: David Centeno <centeno70204@gmail.com>
+Date:   Tue Jul 18 00:12:01 2023 -0500
+
+    PRueba
+
+[33mcommit ed484f59eaf9f870d5e74ea2d2f39dd838fd8613[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: David Centeno <centeno70204@gmail.com>
+Date:   Sun Jul 16 00:56:00 2023 -0500
+
+    a
+
+[33mcommit ea9fd7723c286a9585eaaff87eefe989106df144[m
+Author: David Centeno <centeno70204@gmail.com>
+Date:   Sat Jul 15 20:02:41 2023 -0500
+
+    Adecuaciones
+
+[33mcommit 07a5806dec0c3a23669a9bc0d24985429312ccb6[m
+Author: David Centeno <centeno70204@gmail.com>
+Date:   Thu Jul 6 23:56:51 2023 -0500
+
+    Instalacion de libreria y ajustes
+
+[33mcommit a9bac1dc237a1e9092e0d712655ddbe96e05a0bb[m
+Author: David Centeno <centeno70204@gmail.com>
+Date:   Thu Jun 15 23:37:22 2023 -0500
+
+    a
+
+[33mcommit 812d56f6c434e98c0a83a9c3a022155a0b373fee[m
+Author: David Centeno <centeno70204@gmail.com>
+Date:   Thu Jun 15 23:03:57 2023 -0500
+
+    first commit
+
+[33mcommit ffc2b4bf918eff79ca8ed7ab07d7612ce3da3e98[m
+Author: David Centeno <centeno70204@gmail.com>
+Date:   Thu Jun 15 01:15:52 2023 -0500
+
+    Initialize project using Create React App
